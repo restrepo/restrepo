@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+In addtion to the pinned ones
+* https://github.com/restrepo/WIMP: Boltzmann equation implementation of freeze-out of a singlet scalar dark matter
+
 <!--
 **restrepo/restrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
