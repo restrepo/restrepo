@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 In addtion to the pinned ones
-* https://github.com/restrepo/WIMP: Boltzmann equation implementation of freeze-out of a singlet scalar dark matter
+* https://github.com/restrepo/WIMP: Boltzmann equation implementation of freeze-out
 * https://github.com/restrepo/LinuxTipsAndTricks 
 
 ## My talks
