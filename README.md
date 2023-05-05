@@ -2,7 +2,8 @@
 
 In addtion to the pinned ones
 * https://github.com/restrepo/WIMP: Boltzmann equation implementation of freeze-out
-* https://github.com/restrepo/LinuxTipsAndTricks 
+* https://github.com/restrepo/LinuxTipsAndTricks
+* https://github.com/restrepo/Advanced_Computation
 
 ## My talks
 [Slides](https://github.com/restrepo/myslides) as branches of the repository
